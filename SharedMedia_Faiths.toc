@@ -1,0 +1,13 @@
+## Interface: 80300
+## Title: |rSharedMedia: Faiths|r
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+core\sounds\class\core.lua
+core\sounds\pve\generic\core.lua
+core\sounds\pve\battleforazeroth\core.lua
+core\sounds\pve\shadowlands\core.lua
+core\sounds\misc\core.lua
+core\fonts\core.lua
+core\textures\core.lua

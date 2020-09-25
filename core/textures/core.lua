@@ -1,0 +1,1 @@
+local LSM = LibStub("LibSharedMedia-3.0")
