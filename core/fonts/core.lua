@@ -21,3 +21,11 @@ LSM:Register("font", "Moon Get!", [[Interface\Addons\SharedMedia_Faiths\media\fo
 LSM:Register("font", "Simplicity", [[Interface\Addons\SharedMedia_Faiths\media\fonts\simplicity.ttf]])
 LSM:Register("font", "The Bold Font", [[Interface\Addons\SharedMedia_Faiths\media\fonts\theboldfont.ttf]])
 LSM:Register("font", "VCR OSD", [[Interface\Addons\SharedMedia_Faiths\media\fonts\VCR_OSD_MONO_1.001.ttf]])
+
+LSM:Register("font", "Aurora", [[Interface\Addons\SharedMedia_Faiths\media\fonts\Aurora.ttf]])
+LSM:Register("font", "Bavaria", [[Interface\Addons\SharedMedia_Faiths\media\fonts\Bavaria.ttf]])
+LSM:Register("font", "Frucade", [[Interface\Addons\SharedMedia_Faiths\media\fonts\Frucade.ttf]])
+LSM:Register("font", "Frucade Medium", [[Interface\Addons\SharedMedia_Faiths\media\fonts\FrucadeMedium.ttf]])
+LSM:Register("font", "Gros", [[Interface\Addons\SharedMedia_Faiths\media\fonts\Gros.ttf]])
+LSM:Register("font", "Munica", [[Interface\Addons\SharedMedia_Faiths\media\fonts\Munica.ttf]])
+LSM:Register("font", "Semplice", [[Interface\Addons\SharedMedia_Faiths\media\fonts\Semplice.ttf]])
