@@ -1,0 +1,10 @@
+local LSM = LibStub("LibSharedMedia-3.0")
+
+LSM:Register("sound", "|cFFFFA500Hearthstone: Jobs Done", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_jobs_done.ogg.ogg]])
+LSM:Register("sound", "|cFFFFA500Hearthstone: Rare", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_rare.ogg]])
+LSM:Register("sound", "|cFFFFA500Hearthstone: Epic", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_epic.ogg]])
+LSM:Register("sound", "|cFFFFA500Hearthstone: Legendary", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_legendary.ogg]])
+LSM:Register("sound", "|cFFFFA500Hearthstone: Golden Common", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_golden_common.ogg]])
+LSM:Register("sound", "|cFFFFA500Hearthstone: Golden Rare", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_golden_rare.ogg]])
+LSM:Register("sound", "|cFFFFA500Hearthstone: Golden Epic", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_golden_epic.ogg]])
+LSM:Register("sound", "|cFFFFA500Hearthstone: Golden Legendary", [[Interface\Addons\SharedMedia_Faiths\media\sounds\hearthstone\vo_announcer_golden_legendary.ogg]])
